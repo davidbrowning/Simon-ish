@@ -1,0 +1,18 @@
+ImageIcon p = ImageIcon(new URL("http://xys.com"));
+
+or
+
+ImageIcon p = new ImageIcon(filepath.xyz, description -can be null);
+
+Cannot add ImageIcon to JPanel, must first add to JLable or something else. 
+Cannot scale ImageIcon
+Can Scale Image.
+	getImage from ImageIcon
+	Scale Image Object
+		getScaledInstanceOf? returns scaled image. 
+		Use image object to create another imageIcon with scaled image.
+		
+Sounds:
+	javax.sound.audiostream...
+	
+Thread:stream of execution
